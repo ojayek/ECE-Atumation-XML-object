@@ -1,0 +1,11 @@
+C:\Users\h_ghoreyshi\source\repos\ece4\bin\Debug\ece4.exe.config
+C:\Users\h_ghoreyshi\source\repos\ece4\bin\Debug\ece4.exe
+C:\Users\h_ghoreyshi\source\repos\ece4\bin\Debug\ece4.pdb
+C:\Users\h_ghoreyshi\source\repos\ece4\obj\Debug\ece4.csproj.CoreCompileInputs.cache
+C:\Users\h_ghoreyshi\source\repos\ece4\obj\Debug\ece4.exe
+C:\Users\h_ghoreyshi\source\repos\ece4\obj\Debug\ece4.pdb
+C:\Users\h_ghoreyshi\source\repos\ece4\obj\Debug\ece4.csprojAssemblyReference.cache
+C:\Users\h_ghoreyshi\source\repos\ece4\bin\Debug\ece4.exe.manifest
+C:\Users\h_ghoreyshi\source\repos\ece4\bin\Debug\ece4.application
+C:\Users\h_ghoreyshi\source\repos\ece4\obj\Debug\ece4.exe.manifest
+C:\Users\h_ghoreyshi\source\repos\ece4\obj\Debug\ece4.application
